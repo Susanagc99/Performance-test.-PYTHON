@@ -1,6 +1,6 @@
 # MY STORE'S PRODUCTS INVENTORY 🛒
 
-**`Performance.test.py`**: ✅ it's a practical exercise in which you can find a store's product inventory. You can add products with their price and available units. This management system  allows to efficiently track available products, their quantity and updated prices, and calculate the total inventory value. 📦🗠
+**`Performance.test.py`**: ✅ It's a practical exercise in which you can find a store's product inventory. You can add products with their price and available units. This management system allows to efficiently track available products, their quantity and updated prices, and calculate the total inventory value. 📦🗠
 
 ## 📂 How to use?
 1. Download the py file from this repository.
